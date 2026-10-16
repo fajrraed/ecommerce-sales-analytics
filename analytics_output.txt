@@ -1,0 +1,23 @@
+--- Business Analytics Summary ---
+
+Total Store Revenue: $913,431.80
+Total Units Sold: 4,463 items
+--------------------------------------------------
+
+--- Revenue Breakdown per Product Category ---
+Product_Category
+Electronics       $424,960.91
+Home & Kitchen    $200,976.46
+Clothing          $127,159.21
+Beauty             $89,680.12
+Books              $70,655.10
+Name: Total_Revenue, dtype: object
+--------------------------------------------------
+
+--- Most Popular Payment Methods ---
+Payment_Method
+Debit Card     390
+PayPal         378
+Crypto         371
+Credit Card    361
+Name: count, dtype: int64
